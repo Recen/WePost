@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="btn1_96_yellow">
+        <item name="android:background">@drawable/shape_btn_yellow</item>
+        <item name="android:textColor">@color/btn_font_color_black</item>
+        <item name="android:textSize">@dimen/font_28px</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:layout_width">96dp</item>
+    </style>
+
+    <style name="btn3_64_black_y_line">
+        <item name="android:background">@drawable/shape_btn3</item>
+        <item name="android:textColor">@color/btn_font_color_yellow</item>
+        <item name="android:textSize">@dimen/font_26px</item>
+        <item name="android:layout_height">32dp</item>
+        <item name="android:layout_width">116dp</item>
+    </style>
+
+    <style name="btn4_64_black_w_line">
+        <item name="android:background">@drawable/shape_btn4</item>
+        <item name="android:textAppearance">@style/txt40_white28</item>
+        <item name="android:layout_height">32dp</item>
+        <item name="android:layout_width">116dp</item>
+    </style>
+
+    <style name="btn5_38_b_line">
+        <item name="android:background">@drawable/shape_btn_line</item>
+        <item name="android:textColor">@color/btn_font_color_black</item>
+        <item name="android:textSize">@dimen/font_22px</item>
+        <item name="android:layout_height">19dp</item>
+        <item name="android:layout_width">42dp</item>
+    </style>
+
+    <style name="btn6_78_white">
+        <item name="android:background">@drawable/shape_btn_white</item>
+        <item name="android:textColor">@color/btn_font_color_black</item>
+        <item name="android:textSize">@dimen/font_28px</item>
+        <item name="android:layout_height">39dp</item>
+        <item name="android:layout_width">144dp</item>
+    </style>
+
+    <style name="btn7_78_white">
+        <item name="android:background">@drawable/shape_btn_white</item>
+        <item name="android:textColor">@color/btn_font_color_black</item>
+        <item name="android:textSize">@dimen/font_28px</item>
+        <item name="android:layout_height">39dp</item>
+        <item name="android:layout_width">288dp</item>
+    </style>
+
+    <style name="btn8_78_red">
+        <item name="android:background">@drawable/shape_btn_red</item>
+        <item name="android:textAppearance">@style/txt40_white28</item>
+        <item name="android:layout_height">39dp</item>
+        <item name="android:layout_marginLeft">18dp</item>
+        <item name="android:layout_marginRight">18dp</item>
+    </style>
+
+    <style name="btn9_78_black">
+        <item name="android:background">@drawable/shape_btn_black</item>
+        <item name="android:textColor">@color/btn_font_color_yellow</item>
+        <item name="android:textSize">@dimen/font_28px</item>
+        <item name="android:layout_height">39dp</item>
+        <item name="android:layout_marginLeft">18dp</item>
+        <item name="android:layout_marginRight">18dp</item>
+    </style>
+    <style name="btn9_78_grey">
+        <item name="android:background">@drawable/shape_btn_disabled</item>
+        <item name="android:textColor">@color/font_white</item>
+        <item name="android:textSize">@dimen/font_28px</item>
+        <item name="android:layout_height">39dp</item>
+        <item name="android:layout_marginLeft">18dp</item>
+        <item name="android:layout_marginRight">18dp</item>
+    </style>
+    <style name="btn10_78_b_line">
+        <item name="android:background">@drawable/shape_btn_line</item>
+        <item name="android:textColor">@color/btn_font_color_black</item>
+        <item name="android:textSize">@dimen/font_28px</item>
+        <item name="android:layout_height">39dp</item>
+        <item name="android:layout_marginLeft">18dp</item>
+        <item name="android:layout_marginRight">18dp</item>
+    </style>
+
+    <style name="btn11_96_white">
+        <item name="android:background">@drawable/shape_btn_white</item>
+        <item name="android:textColor">@color/btn_font_color_black</item>
+        <item name="android:textSize">@dimen/font_28px</item>
+        <item name="android:layout_height">48dp</item>
+    </style>
+</resources>
